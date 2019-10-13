@@ -1,0 +1,11 @@
+.wrapper{
+    color:red;
+}
+#bold{
+    color:blue;
+    font-size: 25px;
+    font-style: italic;
+}
+h1{
+    color:brown;
+}
